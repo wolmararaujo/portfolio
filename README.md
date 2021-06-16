@@ -2,7 +2,10 @@
 This repository contains studies and projects.
 
 ## Algoritmos e pseudocódigos
-Flowgorithm is a free beginner's programming language that is based on simple graphical flowcharts.
+
+- Flowgorithm 
+
+Is a free beginner's programming language that is based on simple graphical flowcharts.
 
 Typically, when a student first learns to program, they often use one of the text-based programming languages. Depending on the language, this can either be easy or frustratingly difficult. Many languages require you to write lines of confusing code just to display the text "Hello, world!".
 
