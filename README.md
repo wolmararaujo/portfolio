@@ -8,6 +8,10 @@ Who is me?!? 😄
 
 I hope so this portfolio can help any people interested in programming. I expect to contribute in your studies and improve myself more and more along the build this portfolio.
 
+👨‍🏫 Lattes: http://lattes.cnpq.br/0206186938172490
+
+👨‍💼 linkedin: https://www.linkedin.com/in/wolmar-araujo-neto/
+
 ## Algorithms and Pseudocodes
 
 - Flowgorithm 
