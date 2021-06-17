@@ -22,7 +22,8 @@ Once you understand programming logic, it is easy for you to learn one of the ma
 
 http://flowgorithm.org/index.htm
 
-Bibliography:
+:: **Bibliography** ::
 
 📖 HOROWITZ, Ellis; SAHNI, Sartaj; RAJASEKARAN, Sanguthevar. Computer algorithms C++: C++ and pseudocode versions. Macmillan, 1997.
+
 📖 ARNDT, Jörg. Algorithms for Programmers-ideas and source code. 2004.
