@@ -8,7 +8,7 @@ Who is me?!? 😄
 
 I hope so this portfolio can help any people interested in programming. I expect to contribute in your studies and improve myself more and more along the build this portfolio.
 
-## Algoritmos e pseudocódigos
+## Algorithms and Pseudocodes
 
 - Flowgorithm 
 
