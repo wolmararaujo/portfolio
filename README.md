@@ -24,4 +24,5 @@ http://flowgorithm.org/index.htm
 
 Bibliography:
 
-HOROWITZ, Ellis; SAHNI, Sartaj; RAJASEKARAN, Sanguthevar. Computer algorithms C++: C++ and pseudocode versions. Macmillan, 1997.
+📖 HOROWITZ, Ellis; SAHNI, Sartaj; RAJASEKARAN, Sanguthevar. Computer algorithms C++: C++ and pseudocode versions. Macmillan, 1997.
+📖 ARNDT, Jörg. Algorithms for Programmers-ideas and source code. 2004.
