@@ -21,3 +21,7 @@ By using flowcharts, you can concentrate on programming concepts rather than all
 Once you understand programming logic, it is easy for you to learn one of the major languages. Flowgorithm can interactively convert your flowchart to over 18 languages. These include: C#, C++, Java, JavaScript, Lua, Perl, Python, Ruby, Swift, Visual Basic .NET, and VBA (used in Office).
 
 http://flowgorithm.org/index.htm
+
+Bibliography:
+
+HOROWITZ, Ellis; SAHNI, Sartaj; RAJASEKARAN, Sanguthevar. Computer algorithms C++: C++ and pseudocode versions. Macmillan, 1997.
