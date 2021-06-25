@@ -37,3 +37,7 @@ http://flowgorithm.org/index.htm
 Typora é uma ferramenta projetada para facilitar o código-fonte de remarcação para escritores e leitores. Sua principal ação é substituir a desordem da interface típica de redução por algo mais direto e intuitivo. A janela de visualização usual, o alternador de modo e outros recursos desnecessários desaparecerão, substituídos por uma janela de visualização ao vivo. Graças ao Typora, a edição de descontos será muito mais fácil para um grande número de usuários em todo o mundo.
 
 https://typora.softonic.com.br/
+
+## Resume sobre o GIT
+
+[Resumo](https://github.com/wolmararaujo/portfolio/blob/main/GitResume.md)
