@@ -32,12 +32,12 @@ http://flowgorithm.org/index.htm
 
 📖 ARNDT, Jörg. Algorithms for Programmers-ideas and source code. 2004.
 
-## Programa para edição de textos (Ex. Readmes for GIT)
+## Text editing program (Ex. Readmes for GIT)
 
-Typora é uma ferramenta projetada para facilitar o código-fonte de remarcação para escritores e leitores. Sua principal ação é substituir a desordem da interface típica de redução por algo mais direto e intuitivo. A janela de visualização usual, o alternador de modo e outros recursos desnecessários desaparecerão, substituídos por uma janela de visualização ao vivo. Graças ao Typora, a edição de descontos será muito mais fácil para um grande número de usuários em todo o mundo.
+Typora is software where code editing is easy for readers end writers, your purpose is be direct and intuitive.
 
 https://typora.softonic.com.br/
 
-## Resume sobre o GIT
+## GIT Summary
 
-[Resumo](https://github.com/wolmararaujo/portfolio/blob/main/GitResume.md)
+[Briefing](https://github.com/wolmararaujo/portfolio/blob/main/GitResume.md)
