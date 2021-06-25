@@ -1,12 +1,12 @@
 # Git
 
-**Git **é um sistema de controle de versões distribuído, ou seja, um software que rastreia os arquivos e controla o que você tem na sua máquina com o que existe no repositório.
+**Git** é um sistema de controle de versões distribuído, ou seja, um software que rastreia os arquivos e controla o que você tem na sua máquina com o que existe no repositório.
 
 **Github, Gitlab, Bitbucket** são serviços baseados em nuvem que hospedam um sistema de controle de versão chamado Git. É de fato onde está o repositório compartilhado entre todas as pessoas de um projeto. 
 
 **Vantagens do uso**
 
-**Histórico **
+**Histórico**
 
 Alternar entre versões (log)
 
@@ -30,17 +30,17 @@ Alternar entre versões (log)
 
 **Instalação do Git**
 
-Para **windows **só fazer o download e instalar com next next next.
+Para **windows** só fazer o download e instalar com next next next.
 
 <https://git-scm.com/download/win>
 
-Para **linux **
+Para **linux**
 
 **sudo apt install git**
 
 <https://git-scm.com/download/linux>
 
-No **mac **fazer o download do pkg e instalar, em alguns casos é necessário liberar no sistema de segurança do mac a instalação de fontes desconhecidas.
+No **mac** fazer o download do pkg e instalar, em alguns casos é necessário liberar no sistema de segurança do mac a instalação de fontes desconhecidas.
 
 <https://git-scm.com/download/mac>
 
@@ -56,9 +56,9 @@ Para ter certeza que o git foi instalado faça o comando no terminal
 
 ![img](https://whimuc.com/MmtwAjsVtWRtkkVH5JEQV5/3mE955iMpHBsT2.png)
 
-Toda vez que temos uma pasta/ projeto  dentro teremos um arquivo oculto de controle do git chamado **.git. **Uma pasta que não tem esse arquivo não está sendo controlada pelo git. Para isso é necessário o comando dentro da pasta.
+Toda vez que temos uma pasta/ projeto  dentro teremos um arquivo oculto de controle do git chamado **.git.** Uma pasta que não tem esse arquivo não está sendo controlada pelo git. Para isso é necessário o comando dentro da pasta.
 
-**git init **
+**git init**
 
 É necessário configurar algumas variáveis que o git usa para rastrear o usuário que fez as mudanças no arquivo e commitou, lembrando que as variáveis para o git são case sensitive. Por padrão é bom usar no nome a primeira letra maiúscula.
 
@@ -70,7 +70,7 @@ Toda vez que temos uma pasta/ projeto  dentro teremos um arquivo oculto de contr
 
 **git config --global use.email “fulanotal@gmail.com”**
 
-**git config --list **
+**git config --list**
 
 Algumas outras configurações podem ser legais, mas não necessárias, acostume-se a manter o padrão.
 
@@ -78,9 +78,9 @@ Algumas outras configurações podem ser legais, mas não necessárias, acostume
 
 **git config --global color.branch auto**
 
-**git config --global color.diff auto **
+**git config --global color.diff auto**
 
-**git config --global color.interactive auto **
+**git config --global color.interactive auto**
 
 **git config --global color.status auto**
 
@@ -90,7 +90,7 @@ Algumas outras configurações podem ser legais, mas não necessárias, acostume
 
 **--global**     são configurações a nível de usuário
 
-**--local     **são configurações a nível de projeto/repositório/pasta
+**--local** são configurações a nível de projeto/repositório/pasta
 
 Para mais informações <https://git-scm.com/docs/git-config>
 
@@ -114,7 +114,7 @@ Alguns exemplos de gitignore para projetos <https://github.com/github/gitignore>
 
 É possível também clonar um repositório local passando a pasta ao invés da url
 
-**git clone pasta/x pasta2/y **(vai clonar o caminho o projeto x para o projeto y)
+**git clone pasta/x pasta2/y** (vai clonar o caminho o projeto x para o projeto y)
 
 para mais informações <https://git-scm.com/docs/git-clone>
 
@@ -124,29 +124,29 @@ Para rastrear os arquivos e passar eles para stage é utilizados os possíveis c
 
 **git add nomedoarquivo **ou **git add nomearquivo1 nomearquivo2**
 
-**git add -A **ou **git add --all **(adiciona todos os arquivos)
+**git add -A **ou **git add --all** (adiciona todos os arquivos)
 
-**git add .   **(adiciona todos os arquivos a partir do diretório que vc está)
+**git add .** (adiciona todos os arquivos a partir do diretório que vc está)
 
-**git ls-files -s **ou **--stage        **mostra a lista de stage
+**git ls-files -s** ou **--stage** mostra a lista de stage
 
-**git ls-files -m **ou **--modified    **mostra de modificados
+**git ls-files -m** ou **--modified** mostra de modificados
 
-**git ls-files -o     **ou **-- others        **mostra a lista de não trackeados
+**git ls-files -o** ou **-- others** mostra a lista de não trackeados
 
 para mais informações <https://git-scm.com/docs/git-ls-files>
 
-**git status (**para ver o status de como está no momento o git)
+**git status** (para ver o status de como está no momento o git)
 
-**git status -bs **para uma saída menor e a branch que está.
+**git status -bs** para uma saída menor e a branch que está.
 
 para mais informações <https://git-scm.com/docs/git-status>
 
 Para fazer um commit, ou seja criar um ponto de versionando para o arquivo.
 
-**git commit -m “mensagem” **(todos os arquivos)
+**git commit -m “mensagem”** (todos os arquivos)
 
-**git commit -m “mensagem” \*** (todos os arquivos)
+**git commit -m “mensagem” \** (todos os arquivos)
 
 **git commit -m “mensagem” arquivo** (arquivo específico)
 
@@ -154,7 +154,7 @@ Para fazer um commit, ou seja criar um ponto de versionando para o arquivo.
 
 Em alguns casos você precisa mudar algo quando tudo já foi comitado e para não gerar mais um commit você precisa acrescentar algo.
 
-**git commit --amend **(vai acrescentar as mudanças)
+**git commit --amend** (vai acrescentar as mudanças)
 
 Para mais informações <https://git-scm.com/docs/git-commit>
 
@@ -168,11 +168,11 @@ Para ver as diferenças é bom usar o comando diff.
 
 **git diff** (mostra a diferença do que tem no repositório de trabalho com o último .commit )
 
-**git diff --cached** ou **git diff --staged **(mostra a diferença do que tem no último commit com o que tem na área de staged)
+**git diff --cached** ou **git diff --staged** (mostra a diferença do que tem no último commit com o que tem na área de staged)
 
 Um atalho rápido para adicionar e comitar ao mesmo tempo, mas só funcionar com arquivos que já são conhecidos pelo git
 
-**git commit -a -m “mensagem” **(add todos os arquivos rastreados e já comita)
+**git commit -a -m “mensagem”** (add todos os arquivos rastreados e já comita)
 
 **Log**
 
@@ -180,15 +180,15 @@ Para ver o histórico de commits, usamos o log. Quando o seu projeto está atual
 
 **git log (vai aparecer todos os commits)**
 
-**git log -3 **(vai aparecer os últimos 3 commits)
+**git log -3** (vai aparecer os últimos 3 commits)
 
-**git log --oneline **(vai mostrar resumido)
+**git log --oneline** (vai mostrar resumido)
 
 **git log --author=”Fulano Tal”**  (vai mostrar somente os commits dessa pessoa por isso é importante fazer o git config do usuário e email)
 
-**git log --graph --decorate **(mostra o log de forma mais bonita com uma linhas mostrando as branches)
+**git log --graph --decorate** (mostra o log de forma mais bonita com uma linhas mostrando as branches)
 
-**git log origin/nomedabranch --oneline **(mostra os commits da branch)
+**git log origin/nomedabranch --oneline** (mostra os commits da branch)
 
 Obs: O hash do commit é o que você precisa para reverter um commit. No comando
 
@@ -202,7 +202,7 @@ Usado para ira para um ponto específico de um projeto, seja commit, branches e 
 
 **git checkout meuhash** (pode ser colocado só os 5 ou 6 primeiros caracteres do hash)
 
-**git checkout nomedabranch **(volta para o topo daquela branch)
+**git checkout nomedabranch** (volta para o topo daquela branch)
 
 Se você estiver mudando de branch e os arquivos daquela branch não estiverem comitados, em tese eles seriam perdidos e o git não deixa você fazer isso. Ou você comita para salvar ou dá um reset --hard como mostrado abaixo.
 
@@ -214,7 +214,7 @@ Para mais informações <https://git-scm.com/docs/git-checkout>
 
 **git reset --hard** (é como se você desse um checkout em todos os arquivos e de fato volta o estado inicial daquele ponto de partida, ou commit)
 
-**git reset --hard HEAD~n **(desfazer os commits sendo n o número de commits que você quer desfazer)
+**git reset --hard HEAD~n** (desfazer os commits sendo n o número de commits que você quer desfazer)
 
 NÃO É POSSÍVEL DESFAZER UM COMMIT NO REPOSITÓRIO REMOTO, TEM QUE FAZER UM COMMIT POR CIMA DE CORREÇÃO.
 
@@ -222,7 +222,7 @@ Um detalhe interessante é que se você criar um arquivo na working dir e ele nu
 
 Para deletar de fato um arquivo não rastreado faça
 
-**git clean -f **
+**git clean -f**
 
 **Branch**
 
@@ -240,13 +240,13 @@ Comandos usando branches.
 
 **git branch** (lista as branches locais)
 
-**git branch novabranch**  (cria uma nova branch local)
+**git branch novabranch** (cria uma nova branch local)
 
 **git branch -d nomedabranch** (Para remover uma branch local. Só funciona se você não estiver com checkout nela)
 
 **git branch -D nomedabranch** (Para forçar a remoção da branch local, mas ainda sim é preciso apontado para outra branch)
 
-**git checkout novabranch  **(passa para a branch com esse nome)
+**git checkout novabranch** (passa para a branch com esse nome)
 
 um corta caminho é fazer 
 
@@ -262,13 +262,13 @@ Para mais informações <https://git-scm.com/docs/git-branch>
 
 Usado para dar comando direto no repositório. Tudo que vai para o repositório leva essa palavra. O comando push sobe os arquivos locais da branch que você está para a respectiva branch no servidor Github, Gitblab, Bitbucket, etc.
 
-**git push **(vai tentar subir a branch para a principal, master/main. Nesse caso, se você estiver em uma branch diferente vai dar erro. Não é uma boa prática fazer esse comando sem apontar a branch que você deseja para evitar publicar na master/main)
+**git push** (vai tentar subir a branch para a principal, master/main. Nesse caso, se você estiver em uma branch diferente vai dar erro. Não é uma boa prática fazer esse comando sem apontar a branch que você deseja para evitar publicar na master/main)
 
-**git push origin minhabranch **(Se não existir a branch ele vai criar)
+**git push origin minhabranch** (Se não existir a branch ele vai criar)
 
-**git push -u origin minhabranch **(MESMA COISA)
+**git push -u origin minhabranch** (MESMA COISA)
 
-**git push --set-upstream origin minhabranch **(MESMA COISA)
+**git push --set-upstream origin minhabranch** (MESMA COISA)
 
 **git push --delete origin nomedabranch** (deleta a branch do servidor) 
 
@@ -280,7 +280,7 @@ Curiosidade: o git não faz o push de um diretório vazio sem nenhum arquivo.
 
 É quando você solicita para o servidor que traga as modificações do repositório para a máquina local, mas não aplica. 
 
-**git fetch **
+**git fetch**
 
 usado para observar como está o projeto a frente sem sair do ponto que você está.
 
@@ -302,7 +302,7 @@ O git merge faz as alterações e já faz um commit caso não tenha conflitos, p
 
 O comando pull é a soma do comando fetch com o comando merge. Ele puxa as alterações do servidor já faz o merge localmente.
 
-**git pull **(atualiza todo o conteúdo do servidor com o da sua máquina, para a branch que vc esta)
+**git pull** (atualiza todo o conteúdo do servidor com o da sua máquina, para a branch que vc esta)
 
 Uma curiosidade, se você der um git pull e existir algum branch diferente das suas locais ela não aparece no comando git branch na listagem apesar de existir. Ela só aparece se você der um checkout para ela manualmente.
 
@@ -316,7 +316,7 @@ Usado para conferir os dados do repositório associado ao projeto na máquina lo
 
 **git remote add origin urlDoRepositorio.git ()**
 
-**git pull **(atualiza todo o conteúdo do servidor com o da sua máquina, incluindo branches de outros usuários que subiram)
+**git pull** (atualiza todo o conteúdo do servidor com o da sua máquina, incluindo branches de outros usuários que subiram)
 
 Uma curiosidade, se você der um git pull e existir algum branch diferente das suas locais ela não aparece no comando git branch na listagem apesar de existir. Ela só aparece se você der um checkout para ela manualmente.
 
@@ -328,15 +328,15 @@ Imagine uma tag como sendo um snapshot do projeto naquele momento. Diferente das
 
 **git tag** (lista as tags)
 
-**git tag -a nomedatag -m “mensagem para explicar essa tag” **(criando uma tag localmente do seu checkout do momento)
+**git tag -a nomedatag -m “mensagem para explicar essa tag”** (criando uma tag localmente do seu checkout do momento)
 
-**git tag -a nomedatag hashDoComite -m “mensagem de explicação” **(criando uma tag localmente a partir de um commit sem sair do seu checkout)
+**git tag -a nomedatag hashDoComite -m “mensagem de explicação”** (criando uma tag localmente a partir de um commit sem sair do seu checkout)
 
-**git push origin nomedatag **(enviando a tag paga o repositório remoto)
+**git push origin nomedatag** (enviando a tag paga o repositório remoto)
 
-**git tag -d nomedatag **(remove a tag localmente)
+**git tag -d nomedatag** (remove a tag localmente)
 
-**git push --delete origin nomedatag **(remove a tag do repositório)
+**git push --delete origin nomedatag** (remove a tag do repositório)
 
 Para saber mais <https://git-scm.com/docs/git-tag>
 
@@ -352,21 +352,21 @@ git remote add meurepositório.git
 
 Se você fez alguma modificação, mas ainda não está pronto para commitar pois ainda existe algum tipo de erro ou ainda não finalizou o que você está fazendo, ou até mesmo precisa trocar de branch para ajudar um amigo, para mudar de branch ou é preciso commitar ou reverter. Se comitar com erro não é boa prática, se reverter vai perder todo o trabalho. o Stash salva em memória o que você está fazendo para deixar para que possa mudar de branch. Funciona como uma pilha.
 
-**git stash save “Mensagem de lembrete”**(salva a mudança)
+**git stash save “Mensagem de lembrete”** (salva a mudança)
 
-**git stash **(é a mesma coisa, mas ele faz uma mensagem automática)
+**git stash** (é a mesma coisa, mas ele faz uma mensagem automática)
 
-**git stash list **(mostra a lista de stashes)
+**git stash list** (mostra a lista de stashes)
 
 **git stash apply** (traz o topo da pilha, mas não deleta da pilha)
 
-**git stash apply stash@{n} **(vai para o stash específico mas não deleta)
+**git stash apply stash@{n}** (vai para o stash específico mas não deleta)
 
 **git stash pop** (vai para o último do topo da pilha, ou seja o mais recente)
 
-**git stash pop stash@{n} **(passa já deletando)
+**git stash pop stash@{n}** (passa já deletando)
 
-**git stash drop stash@{n} **(remove exatamente qual stash vc quer remover)
+**git stash drop stash@{n}** (remove exatamente qual stash vc quer remover)
 
 <https://git-scm.com/docs/git-stash>
 
@@ -384,9 +384,9 @@ O pull request é quando você pede para contribuir com o projeto pai de um fork
 
 Dentro do conceito de Issues existem os labels
 
-​    **Labels **são as tags que o mantenedor do projeto dá para cada uma das issues, são etiquetas na verdade para reportar que tipo de Issue é aquela. Ex: Bug, Erro de Lógica, Melhoria, Questão, Issue duplicada, etc.
+​    **Labels ** são as tags que o mantenedor do projeto dá para cada uma das issues, são etiquetas na verdade para reportar que tipo de Issue é aquela. Ex: Bug, Erro de Lógica, Melhoria, Questão, Issue duplicada, etc.
 
-​    **Milestones **é como se fosse um conceito de release. Vamos imaginar que alguém faça uma proposta de melhoria que já estava preparada para entrar na versão 2.0 do projeto, mas não será resolvido agora. Você pode programar aquelas Issues para serem resolvidas por releases e quem estiver acompanhando o seu projeto saberá quando será implementada caso for. 
+​    **Milestones** é como se fosse um conceito de release. Vamos imaginar que alguém faça uma proposta de melhoria que já estava preparada para entrar na versão 2.0 do projeto, mas não será resolvido agora. Você pode programar aquelas Issues para serem resolvidas por releases e quem estiver acompanhando o seu projeto saberá quando será implementada caso for. 
 
 obs: Existem casos que o mantenedor coloca labels com o número da versão para que você filtre as issues pela versão. 
 
