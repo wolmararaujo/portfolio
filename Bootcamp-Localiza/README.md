@@ -10,20 +10,24 @@
 
 ##### Bem-vindo à DIO (Básico - 1h)
 
-- Conheci um pouco mais sobre o #LocalizaLabs, o laboratório de tecnologia e inovação.
+- Conheci um pouco mais sobre à DIO (Digital Innovation One), o maior ecossistema open education em desenvolvimento de software da América Latina.
 
-  ​
+  Certificado
 
 ##### Lógica de Programação Essencial (Básico - 4h)
 
+Lógica de programação é a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa.  Uma breve revisão de conceitos fundamentais de algoritmos.
 
+Certificado
 
 Aprenda o que são estrutura de dados e algoritmos (Intermediário - 2h)
 
+Aprendizado do que são estruturas de dados em um sistema, qual a importância dela e como trabalhar com o armazenamento dessas informações de forma ágil e otimizada.
 
+Certificado
 
 Introdução ao Git e ao GitHub (Básico - 5h)
 
-
+O curso conta um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Conhecendo os principais comandos e como funciona a plataforma.
 
 Primeiros passos com .NET + C# (Básico - 7h)
