@@ -40,4 +40,4 @@ https://typora.softonic.com.br/
 
 ## GIT Summary
 
-[Briefing](https://github.com/wolmararaujo/portfolio/blob/main/GitResume.md)
+[Briefing](https://github.com/wolmararaujo/portfolio/blob/main/GitHub-Info/GitResume.md)
