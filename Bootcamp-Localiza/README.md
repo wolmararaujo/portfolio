@@ -6,7 +6,7 @@
 
 - Conheci um pouco mais sobre o #LocalizaLabs, o laboratório de tecnologia e inovação.
 
-  ​
+[Certificado](https://github.com/wolmararaujo/portfolio/blob/main/Bootcamp-Localiza/90E0AAB5.pdf)
 
 ##### Bem-vindo à DIO (Básico - 1h)
 
