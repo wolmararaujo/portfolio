@@ -1,6 +1,6 @@
 # Santander Bootcamp | Fullstack Developer
 
-##### Objetivo deste bootcampo é desenvolver aplicações back-end de alto nível utilizando Java, criar aplicações ainda mais completas integradas ao banco de dados. Além de explorar o front-end com Angular, uma solução amplamente utilizada para criação de aplicações SPA (Single Page Application) por grandes empresas do mercado e buscar trilhar uma carreira de sucesso como dev fullstack
+##### Objetivo deste bootcamp é desenvolver aplicações back-end de alto nível utilizando Java, criar aplicações ainda mais completas integradas ao banco de dados. Além de explorar o front-end com Angular, uma solução amplamente utilizada para criação de aplicações SPA (Single Page Application) por grandes empresas do mercado e buscar trilhar uma carreira de sucesso como dev fullstack
 
 ## Boas-vindas ao Bootcamp Santander Fullstack Developer (Básico - 1h)
 
