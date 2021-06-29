@@ -6,7 +6,7 @@
 
 - Conhecendo o Santander, o terceiro maior banco privado do País.
 
-Certificado
+[Certificado](https://github.com/wolmararaujo/portfolio/blob/main/Bootcamp-Santander/FF8A37C3.pdf)
 
 ## Bem-vindo à DIO (Básico - 1h)
 
