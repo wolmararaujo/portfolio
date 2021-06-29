@@ -25,3 +25,5 @@ Lógica de programação é a forma como o desenvolvedor entende a comunicação
 O curso conta um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Conhecendo os principais comandos e como funciona a plataforma.
 
 [Certificado](https://github.com/wolmararaujo/portfolio/blob/main/Bootcamp-Localiza/C0C61F6E.pdf)
+
+## Conceitos e melhores práticas com bancos de dados PostgreSQL (Básico - 9h)
