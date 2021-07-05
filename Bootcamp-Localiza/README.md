@@ -35,3 +35,4 @@ O curso conta um pouco da história do Git e como ele se tornou essencial para o
 ## Primeiros passos com .NET + C# (Básico - 7h)
 
 No curso foi apresentado como preparar ambiente, lidar com erros, classes e objetos.
+[Certificado](https://hermes.digitalinnovation.one/certificates/4D034047.pdf)
