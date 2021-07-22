@@ -33,3 +33,7 @@ O curso conta um pouco da história do Git e como ele se tornou essencial para o
 [Certificado](https://github.com/wolmararaujo/portfolio/blob/main/Bootcamp-Localiza/C0C61F6E.pdf)
 
 ## Primeiros passos com .NET + C# (Básico - 7h)
+
+No curso foi apresentado como preparar ambiente, lidar com erros, classes e objetos.
+
+[Certificado](https://hermes.digitalinnovation.one/certificates/4D034047.pdf)
