@@ -5,4 +5,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Bank.Service\" />
+    <Folder Include="Bank.Finance\" />
+    <Folder Include="Bank.FakeDB\" />
+  </ItemGroup>
+
 </Project>
