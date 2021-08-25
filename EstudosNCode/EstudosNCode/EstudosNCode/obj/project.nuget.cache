@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q1vPF8CfpgvEg1S++ak4F+JlGePnZcaGWILtzgWEVoFIxQ3BNjG3Q1XxFuWQ7Ndua0GFYR2h46rKY2O4ygthOw==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub-Material\\portfolio\\EstudosNCode\\EstudosNCode\\EstudosNCode\\EstudosNCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wolma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
