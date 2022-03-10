@@ -4,9 +4,9 @@ Wellcome to my portfolio!
 
 Who is me?!? 😄
 
-- I'm a Control and Automation Engineer with PhD in Electrical Engineering. At moment, I work with many tecnologies (back-end, front-end, agile, and etc.) in a big enterprise named Autoglass - even with a more academic curriculum, I made the decision to reinvent myself professionally, after the world pandemic.
+- I'm a Control and Automation Engineer with PhD in Electrical Engineering. At moment, I work with many tecnologies (back-end, front-end, agile, and etc.) in a big enterprise named Autoglass. Even with focused work on an academic curriculum, I made the decision to reinvent myself professionally, after the world pandemic.
 
-I hope so this portfolio can help any people interested in programming. I expect to contribute in your studies and improve myself more and more along the build this portfolio.
+I hope that this portfolio can help any people interested in programming. I expect to contribute in your studies and improve myself more and more along the building of this portfolio.
 
 👨‍🏫 Lattes: http://lattes.cnpq.br/0206186938172490
 
